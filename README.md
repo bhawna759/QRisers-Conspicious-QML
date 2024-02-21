@@ -1,2 +1,6 @@
 # MNIST-Deep-Learning
-Experimented with Convolution, Pooling, ImageGenerator using Tensorflow on MNIST dataset 
+
+1. Experimented with Convolution, Pooling, ImageGenerator using Tensorflow on MNIST dataset
+   
+2. 
+
