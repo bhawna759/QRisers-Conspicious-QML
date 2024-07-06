@@ -1,4 +1,5 @@
-# MNIST-Deep-Learning
+# MNIST-Deep-Learning 
+get hands dirty with the famous digit recognition problem using the MNIST (Mixed National Institute of Standards and Technology) database
 
 1. Experimented with Convolution, Pooling, ImageGenerator using Tensorflow on MNIST dataset
    (MNIST Classification using Tensorflow.ipynb)
