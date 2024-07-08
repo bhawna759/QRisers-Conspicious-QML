@@ -19,6 +19,8 @@ Next, we call the function plot_images to display the first 20 images of the tra
 2. MNIST Classification using Pytorch
 3. MNIST code using JAX
 
+Link referred:
+https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/
    Bhawna's Task - understand and run codes for MNIST NN code using pytorch, MNIST code using JAX by 8th July
 , MNIST using QNN by 10th July
 
