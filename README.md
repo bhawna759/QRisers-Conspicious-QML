@@ -1,10 +1,10 @@
 **QRisers Conspicious Team members**
 
 
-1. Bhawna Gupta
+1. Bhawna Gupta 
 
 
-2. Nilam Bhojwani
+2. Nilam Bhojwani enrollment id (WQ24-ucFLJgLIeAMNEMz)
 
 **Final Codes Submitted:**
 1. https://github.com/bhawna759/QRisers-Conspicious-QML/blob/main/QNN_MNIST.ipynb
