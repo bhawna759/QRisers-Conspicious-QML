@@ -1,12 +1,12 @@
 **QRisers Conspicious Team members**
 
 
-Bhawna Gupta
+1. Bhawna Gupta
 
 
-Nilam Bhojwani
+2. Nilam Bhojwani
 
-Final Codes Submitted:
+**Final Codes Submitted:**
 1. https://github.com/bhawna759/QRisers-Conspicious-QML/blob/main/QNN_MNIST.ipynb
 2. https://github.com/bhawna759/QRisers-Conspicious-QML/blob/main/SINE_FUNCTION_QML.ipynb
 3. https://github.com/bhawna759/QRisers-Conspicious-QML/blob/main/Final%20QNN_VS_Classical_MNIST_tensorflow.ipynb
