@@ -1,11 +1,8 @@
+**Solution is submitted as assignment in Womanium Quantum 2024 
+Project : QML for Conspicuity Detection**
+
 **QRisers Conspicious Team members**
-Solution is submitted as assignment in Womanium Quantum 2024 
-Project : QML for Conspicuity Detection
-
-
 1. Bhawna Gupta 
-
-
 2. Nilam Bhojwani enrollment id (WQ24-ucFLJgLIeAMNEMz)
 
 **Final Codes Submitted:**
