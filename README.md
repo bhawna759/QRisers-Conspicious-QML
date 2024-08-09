@@ -1,5 +1,6 @@
-**Solution is submitted as assignment in Womanium Quantum 2024 
-Project : QML for Conspicuity Detection**
+**Solution is submitted as assignment in Womanium Quantum 2024 **
+
+**Project : QML for Conspicuity Detection**
 
 **QRisers Conspicious Team members**
 1. Bhawna Gupta 
